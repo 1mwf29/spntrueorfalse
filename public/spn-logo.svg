@@ -1,0 +1,26 @@
+<svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="spn-arc-top" d="M 27 100 A 73 73 0 0 1 173 100" fill="none" />
+    <path id="spn-arc-bottom" d="M 173 100 A 73 73 0 0 1 27 100" fill="none" />
+  </defs>
+  <circle cx="100" cy="100" r="98" fill="#1f2d37" />
+  <circle cx="100" cy="100" r="88" stroke="#ffffff" stroke-width="3" />
+  <circle cx="100" cy="100" r="56" stroke="#ffffff" stroke-width="3" />
+  <text fill="#ffffff" font-size="17.5" font-weight="800" font-family="'Arial Black', 'Trebuchet MS', 'Impact', sans-serif" letter-spacing="4">
+    <textPath href="#spn-arc-top" startOffset="50%" text-anchor="middle">SEPUTAR</textPath>
+  </text>
+  <text fill="#ffffff" font-size="17.5" font-weight="800" font-family="'Arial Black', 'Trebuchet MS', 'Impact', sans-serif" letter-spacing="7">
+    <textPath href="#spn-arc-bottom" startOffset="50%" text-anchor="middle">PPKN</textPath>
+  </text>
+  <g transform="translate(37, 116) scale(0.65)">
+    <polygon points="0,-16 4.7,-4.9 16.8,-4.9 7.4,2.5 11,14.6 0,7.2 -11,14.6 -7.4,2.5 -16.8,-4.9 -4.7,-4.9" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linejoin="round" />
+  </g>
+  <g transform="translate(163, 116) scale(0.65)">
+    <polygon points="0,-16 4.7,-4.9 16.8,-4.9 7.4,2.5 11,14.6 0,7.2 -11,14.6 -7.4,2.5 -16.8,-4.9 -4.7,-4.9" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linejoin="round" />
+  </g>
+  <g fill="#ffffff">
+    <path d="M 64 74 L 81 72 L 81 83 L 73 84 C 71 85 70 87 70 89 C 70 91 71 92 73 93 L 78 95 C 83 97 86 100 86 106 C 86 114 79 119 70 120 C 62 121 54 118 52 113 L 64 107 C 65 110 67 111 70 111 C 72 111 74 110 74 108 C 74 106 73 105 70 104 L 66 102 C 60 100 57 96 57 90 C 57 82 64 76 71 75 Z" />
+    <path d="M 87 68 L 109 68 C 117 68 122 73 122 81 C 122 89 117 94 109 94 L 99 94 L 99 122 L 87 122 Z M 99 77 L 99 85 L 108 85 C 110 85 112 83 112 81 C 112 79 110 77 108 77 Z" />
+    <path d="M 125 72 L 136 74 L 136 97 L 149 76 L 159 79 L 159 120 L 148 118 L 148 95 L 135 116 L 125 114 Z" />
+  </g>
+</svg>

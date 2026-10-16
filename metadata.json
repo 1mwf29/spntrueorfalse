@@ -1,0 +1,6 @@
+{
+  "name": "HAGO True or False Multiplayer",
+  "description": "Game kuis multiplayer real-time cepat dan seru bertema HAGO True or False. Arena interaktif dengan avatar chibi, timer live, hingga 40 pemain per room!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
